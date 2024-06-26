@@ -6,9 +6,10 @@ Shery.js is a powerful JavaScript library designed to create advanced visual eff
 
 **Shery.js Integration**
 In this project, Shery.js is used to create dynamic and visually appealing image effects on the background images. Specifically, the Shery.imageEffect method is applied to the #back div, which contains several background images. This method generates a captivating distortion effect, adding a layer of interactivity and engagement to the webpage.
--style: Determines the type of visual effect applied.
--config: A set of configuration options that control various aspects of the effect, such as the intensity of the distortion, the z-index, aspect ratio, shape position and scale, and the gooey effect.
--gooey: A boolean that enables the gooey effect for a more fluid and organic visual appearance.
+
+- style: Determines the type of visual effect applied.
+- config: A set of configuration options that control various aspects of the effect, such as the intensity of the distortion, the z-index, aspect ratio, shape position and scale, and the gooey effect.
+- gooey: A boolean that enables the gooey effect for a more fluid and organic visual appearance.
 
 
 ## Features
